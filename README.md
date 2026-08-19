@@ -1,4 +1,3 @@
 # ArkScreenResource
 
-#### 介绍
-Arkscreen项目的部分资源文件。
+ArkScreen 项目使用的部分图片资源。
